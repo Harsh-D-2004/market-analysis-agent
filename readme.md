@@ -51,6 +51,4 @@ This will start the Streamlit app on port 8080.
 ![Screenshot 2](content/ss2.png)
 
 ## Demo Video
-<video width="640" height="360" controls>
-  <source src="content/demo.mp4" type="video/mp4">
-</video>
+Demo video in content folder named demo.mp4
