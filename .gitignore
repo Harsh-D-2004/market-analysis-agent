@@ -1,0 +1,6 @@
+myenv
+__pycache__
+.vscode
+.DS_Store
+tmp
+.env
