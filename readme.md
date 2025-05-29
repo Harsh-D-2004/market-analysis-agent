@@ -48,7 +48,7 @@ This will start the Streamlit app on port 8080.
 
 ## Screenshots
 ![Screenshot 1](content/ss1.png)
-![Screenshot 2](screenshots/ss2.png)
+![Screenshot 2](content/ss2.png)
 
 ## Demo Video
 ![Demo Video](content/demo.mp4)
